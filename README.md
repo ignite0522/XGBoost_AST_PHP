@@ -1,8 +1,3 @@
----
-typora-copy-images-to: upload
-
----
-
 # 树模型
 
 
